@@ -94,3 +94,32 @@ See Microscopy with viewer:
 
 ```
 
+
+```{asis, echo = language == "TR"}
+
+**Mide'de Helicobacter pylori (H. pylori) İmmünohistokimyası**
+
+[https://pathologyatlas.github.io/helicobacterpylori/IHC.html](https://pathologyatlas.github.io/helicobacterpylori/IHC.html)
+
+
+Mikroskopik görüntüleri inceleyin:
+
+<iframe src="https://pathologyatlas.github.io/helicobacterpylori/IHC.html" width="100%" height="400px"></iframe>
+
+```
+
+
+```{asis, echo = language == "EN"}
+
+**Helicobacter pylori (H. pylori) immunohistochemistry in stomach**
+
+[https://pathologyatlas.github.io/helicobacterpylori/IHC.html](https://pathologyatlas.github.io/helicobacterpylori/IHC.html)
+
+
+See Microscopy with viewer: 
+
+<iframe src="https://pathologyatlas.github.io/helicobacterpylori/IHC.html" width="100%" height="400px"></iframe>
+
+
+```
+
